@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>src/icons8-добавить-файл-32.png</file>
+        <file>src/icons8-ножницы-32.png</file>
+        <file>src/icons8-открыть-папку-32.png</file>
+        <file>src/icons8-отменить-32.png</file>
+        <file>src/icons8-скопировать-50.png</file>
+        <file>src/icons8-сохранить-как-32.png</file>
+        <file>src/icons8-вставить-32.png</file>
+        <file>src/icons8-повторить-32.png</file>
+        <file>src/icons8-сохранить-32.png</file>
+        <file>src/icons8-галочка-24.png</file>
+        <file>src/icons8-поиск-50.png</file>
+    </qresource>
+</RCC>
